@@ -1,6 +1,8 @@
 ST-OgreScripts
 ==============
 
+UNMAINTAINED - Do with this what you will.
+
 Syntax highlighting for Ogre scripts (materials, compositors and programs).
 
 
